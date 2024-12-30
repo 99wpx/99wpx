@@ -8,3 +8,6 @@
 
 ## 💬 Top Languages:
 ![99wpx's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=99wpx&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+
+"The only way to do great work is to love what you do."  
+— Steve Jobs
